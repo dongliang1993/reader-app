@@ -8,9 +8,5 @@
 4. Ajax异步请求
 5. ES6语法新特性
 
-###Installation
 
-1. git clone https://github.com/huruji/Web-Read-APP
-2. browser-sync start --server 
-3. view localhost:3000 in your browser
 
